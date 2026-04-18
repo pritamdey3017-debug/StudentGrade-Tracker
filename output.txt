@@ -1,0 +1,440 @@
+Enter the number of subject: 
+3
+Enter the name of Subject 1: Physics
+Enter the name of Subject 2: Math
+Enter the name of Subject 3: Chemistry
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice: 
+1
+Enter the number of student that you want to add: 
+2
+
+Enter Name: Rupam Pal
+Enter Roll: 1
+Enter marks of subject 1 (out of 100):94
+Enter marks of subject 2 (out of 100):95
+Enter marks of subject 3 (out of 100):88
+Student Added Successfully
+
+
+Enter Name: Aritra Kumar
+Enter Roll: 2
+Enter marks of subject 1 (out of 100):87
+Enter marks of subject 2 (out of 100):89
+Enter marks of subject 3 (out of 100):85
+Student Added Successfully
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+3
+Enter roll: 2
+
+---- Specific Student record----
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Aritra Kumar
+Roll : 2
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               87.00
+Math                  89.00
+Chemistry             85.00
+----------------------------------------
+Total Marks   : 261.00
+Average       :  87.00
+Highest Marks :  89.00
+Lowest Marks  :  85.00
+Grade         : A
+========================================
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+1
+Enter the number of student that you want to add:
+2
+
+Enter Name: Saoli Kole
+Enter Roll: 3
+Enter marks of subject 1 (out of 100):92
+Enter marks of subject 2 (out of 100):90
+Enter marks of subject 3 (out of 100):91
+Student Added Successfully
+
+
+Enter Name: Sneha Nag
+Enter Roll: 4
+Enter marks of subject 1 (out of 100):90
+Enter marks of subject 2 (out of 100):94
+Enter marks of subject 3 (out of 100):91
+Student Added Successfully
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+2
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Rupam Pal
+Roll : 1
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               94.00
+Math                  95.00
+Chemistry             88.00
+----------------------------------------
+Total Marks   : 277.00
+Average       :  92.33
+Highest Marks :  95.00
+Lowest Marks  :  88.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Aritra Kumar
+Roll : 2
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               87.00
+Math                  89.00
+Chemistry             85.00
+----------------------------------------
+Total Marks   : 261.00
+Average       :  87.00
+Highest Marks :  89.00
+Lowest Marks  :  85.00
+Grade         : A
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Saoli Kole
+Roll : 3
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               92.00
+Math                  90.00
+Chemistry             91.00
+----------------------------------------
+Total Marks   : 273.00
+Average       :  91.00
+Highest Marks :  92.00
+Lowest Marks  :  90.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Sneha Nag
+Roll : 4
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               90.00
+Math                  94.00
+Chemistry             91.00
+----------------------------------------
+Total Marks   : 275.00
+Average       :  91.67
+Highest Marks :  94.00
+Lowest Marks  :  90.00
+Grade         : A+
+========================================
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+4
+Enter roll: 2
+Enter marks of subject 1 (out of 100):87
+Enter marks of subject 2 (out of 100):89
+Enter marks of subject 3 (out of 100):88
+Marks updated.
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+1
+Enter the number of student that you want to add:
+1
+
+Enter Name: Pritam Dey
+Enter Roll: 5
+Enter marks of subject 1 (out of 100):82
+Enter marks of subject 2 (out of 100):84
+Enter marks of subject 3 (out of 100):87
+Student Added Successfully
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+2
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Rupam Pal
+Roll : 1
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               94.00
+Math                  95.00
+Chemistry             88.00
+----------------------------------------
+Total Marks   : 277.00
+Average       :  92.33
+Highest Marks :  95.00
+Lowest Marks  :  88.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Aritra Kumar
+Roll : 2
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               87.00
+Math                  89.00
+Chemistry             88.00
+----------------------------------------
+Total Marks   : 264.00
+Average       :  88.00
+Highest Marks :  89.00
+Lowest Marks  :  87.00
+Grade         : A
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Saoli Kole
+Roll : 3
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               92.00
+Math                  90.00
+Chemistry             91.00
+----------------------------------------
+Total Marks   : 273.00
+Average       :  91.00
+Highest Marks :  92.00
+Lowest Marks  :  90.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Sneha Nag
+Roll : 4
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               90.00
+Math                  94.00
+Chemistry             91.00
+----------------------------------------
+Total Marks   : 275.00
+Average       :  91.67
+Highest Marks :  94.00
+Lowest Marks  :  90.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Pritam Dey
+Roll : 5
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               82.00
+Math                  84.00
+Chemistry             87.00
+----------------------------------------
+Total Marks   : 253.00
+Average       :  84.33
+Highest Marks :  87.00
+Lowest Marks  :  82.00
+Grade         : A
+========================================
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+5
+Enter roll: 5
+Student Deleted Successfully
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+2
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Rupam Pal
+Roll : 1
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               94.00
+Math                  95.00
+Chemistry             88.00
+----------------------------------------
+Total Marks   : 277.00
+Average       :  92.33
+Highest Marks :  95.00
+Lowest Marks  :  88.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Aritra Kumar
+Roll : 2
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               87.00
+Math                  89.00
+Chemistry             88.00
+----------------------------------------
+Total Marks   : 264.00
+Average       :  88.00
+Highest Marks :  89.00
+Lowest Marks  :  87.00
+Grade         : A
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Saoli Kole
+Roll : 3
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               92.00
+Math                  90.00
+Chemistry             91.00
+----------------------------------------
+Total Marks   : 273.00
+Average       :  91.00
+Highest Marks :  92.00
+Lowest Marks  :  90.00
+Grade         : A+
+========================================
+
+
+========================================
+           STUDENT REPORT CARD
+========================================
+Name : Sneha Nag
+Roll : 4
+----------------------------------------
+Subjects            Marks
+----------------------------------------
+Physics               90.00
+Math                  94.00
+Chemistry             91.00
+----------------------------------------
+Total Marks   : 275.00
+Average       :  91.67
+Highest Marks :  94.00
+Lowest Marks  :  90.00
+Grade         : A+
+========================================
+
+
+---- MENU ----
+1. Add Student
+2. view All
+3. Display specific record by roll
+4. Update Marks
+5. Delete Student
+6. EXIT
+Enter your choice:
+6
+Exiting program...
